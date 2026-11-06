@@ -77,18 +77,22 @@ proyecto-iot-semana13/
 
 ---
 ## 📸 Capturas de pantalla requeridas:
- - Creacion del feed
-  <img width="600" height="800" alt="creacion_feed" src="https://github.com/user-attachments/assets/b49a0f7e-2a4e-4378-93af-77ec56a98c87" />
-  ---
- - Grafico histórico generado
-   <img width="1000" height="1000" alt="grafico_historico" src="https://github.com/user-attachments/assets/12f5555b-834a-464b-8e3a-d3c7cfa67226" />
-  ---
- - Applet configurado
-   <img width="600" height="800" alt="applet_configurado" src="https://github.com/user-attachments/assets/e5288274-302e-4ec0-bdc3-91516368395c" />
-  ---
- - Notificación push
-   <img width="600" height="800" alt="Notificacion_push" src="https://github.com/user-attachments/assets/000c16f4-7ae6-4a2c-97d6-6b89b4f7a01d" />
 
+- **Creación del feed:**
+  <br>
+  <img src="https://github.com/user-attachments/assets/b49a0f7e-2a4e-4378-93af-77ec56a98c87" width="100%" alt="creacion_feed">
+
+- **Gráfico histórico generado:**
+  <br>
+  <img src="https://github.com/user-attachments/assets/12f5555b-834a-464b-8e3a-d3c7cfa67226" width="100%" alt="grafico_historico">
+
+- **Applet configurado:**
+  <br>
+  <img src="https://github.com/user-attachments/assets/e5288274-302e-4ec0-bdc3-91516368395c" width="100%" alt="applet_configurado">
+
+- **Notificación push:**
+  <br>
+  <img src="https://github.com/user-attachments/assets/000c16f4-7ae6-4a2c-97d6-6b89b4f7a01d" width="100%" alt="Notificacion_push">
 
 
 
