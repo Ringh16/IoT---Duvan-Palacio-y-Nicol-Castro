@@ -1,3 +1,4 @@
+
 # 🌡️ Sistema IoT de Monitoreo Ambiental con ESP32 y Adafruit IO
 
 Este repositorio contiene la implementación de un sistema IoT funcional para el monitoreo en tiempo real de variables ambientales (temperatura, humedad y luminosidad) y el control remoto de actuadores (LED y Buzzer) mediante la plataforma en la nube **Adafruit IO** y el protocolo **MQTT**.
@@ -73,11 +74,10 @@ El flujo de información y control bidireccional del proyecto sigue la estructur
 
 ## 📊 5. Evidencias del Dashboard en Adafruit IO
 
-*(Nota: Adjunta aquí las capturas de pantalla de tu dashboard de Adafruit IO con los widgets activos)*
+<img width="1361" height="830" alt="Captura de pantalla 2026-11-05 212016" src="https://github.com/user-attachments/assets/e4e68082-410f-498a-aa95-3c77f7bf027d" />
 
 - **Gráfico de Línea:** Histórico de Temperatura.
-- **Gauge / Display Numérico:** Visualización de Humedad actual.
-- **Display Numérico / Medidor:** Estado del nivel de Luminosidad (LDR).
+- **Gauge / Display Numérico:** Visualización de Humedad actual, luminosidad y temperatura actual.
 - **Toggle Switches:** Interruptores independientes para el LED Rojo y el Buzzer.
 
 ---
