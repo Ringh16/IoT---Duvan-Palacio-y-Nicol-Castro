@@ -76,6 +76,10 @@ proyecto-iot-semana13/
 5. **Notificación:** IFTTT recibe el parámetro `value1` y despliega la notificación push en el dispositivo móvil registrado.
 
 ---
+## 📸 Capturas de pantalla requeridas:
+ - Creacion del feed
+
+---
 
 ## 📸 Evidencias de Funcionamiento
 
