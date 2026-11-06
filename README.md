@@ -78,6 +78,17 @@ proyecto-iot-semana13/
 ---
 ## 📸 Capturas de pantalla requeridas:
  - Creacion del feed
+  <img width="606" height="833" alt="creacion_feed" src="https://github.com/user-attachments/assets/b49a0f7e-2a4e-4378-93af-77ec56a98c87" />
+ - Grafico histórico generado
+   <img width="1094" height="508" alt="grafico_historico" src="https://github.com/user-attachments/assets/12f5555b-834a-464b-8e3a-d3c7cfa67226" />
+ - Applet configurado
+   <img width="800" height="708" alt="applet_configurado" src="https://github.com/user-attachments/assets/e5288274-302e-4ec0-bdc3-91516368395c" />
+ - Notificación push
+   <img width="1220" height="754" alt="Notificacion_push" src="https://github.com/user-attachments/assets/000c16f4-7ae6-4a2c-97d6-6b89b4f7a01d" />
+
+
+
+
 
 ---
 
