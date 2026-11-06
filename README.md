@@ -81,7 +81,7 @@ proyecto-iot-semana13/
   <img width="600" height="800" alt="creacion_feed" src="https://github.com/user-attachments/assets/b49a0f7e-2a4e-4378-93af-77ec56a98c87" />
   ---
  - Grafico histórico generado
-   <img width="600" height="1000" alt="grafico_historico" src="https://github.com/user-attachments/assets/12f5555b-834a-464b-8e3a-d3c7cfa67226" />
+   <img width="1000" height="1000" alt="grafico_historico" src="https://github.com/user-attachments/assets/12f5555b-834a-464b-8e3a-d3c7cfa67226" />
   ---
  - Applet configurado
    <img width="600" height="800" alt="applet_configurado" src="https://github.com/user-attachments/assets/e5288274-302e-4ec0-bdc3-91516368395c" />
