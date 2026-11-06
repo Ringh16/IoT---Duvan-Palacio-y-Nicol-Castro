@@ -1,0 +1,7 @@
+# Credenciales y archivos de configuración personal
+codigo/config.h
+
+# Archivos temporales de Arduino y compilación
+.vscode/
+build/
+core/
